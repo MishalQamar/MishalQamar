@@ -1,32 +1,94 @@
-# Welcome to My Profile!
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Mishal Qamar</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Scalable Systems Builder</h3>
 
-Hello! I'm Mishal Qamar, a passionate software developer with experience in building robust applications. My journey in tech has equipped me with a versatile skill set that I continuously refine.
+<p align="center">
+  Passionate about building high-performance applications and AI-powered systems.
+</p>
 
-## Tech Stack
-Here are some technologies I work with:
+---
 
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-- ![Next.js](https://upload.wikimedia.org/wikipedia/commons/d/d0/Nextjs-logo.svg) Next.js
-- ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) TypeScript
-- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/6/6f/Tailwind_CSS_Logo.svg) Tailwind CSS
-- ![shadcn/ui](URL_TO_SHADCN_LOGO) shadcn/ui
-- ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM-flattened.png) Python
-- ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo_teal.png) FastAPI
-- ![Celery](https://celeryproject.org/images/celery-logo.png) Celery
-- REST API
-- Pytest
-- ![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-black.png) Docker
-- ![GitHub Actions](https://github.com/features/actions/images/logos/128.png) GitHub Actions
-- LangChain
-- RAG
-- LLM Integration
-- Vector Databases
+## 🚀 Tech Stack
 
-## Key Strengths
-- Strong proficiency in front-end and back-end development.
-- Experienced in building scalable applications using modern frameworks.
-- Proficient in integrating APIs and using microservices architecture.
-- Excellent problem-solving skills and ability to work in a team.
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48" alt="shadcn/ui"/>
+</p>
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishalQamar&show_icons=true&hide_title=true)
+---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+  <img src="https://cdn.worldvectorlogo.com/logos/celery.svg" height="48" alt="Celery"/>
+</p>
+
+---
+
+### 🔗 APIs & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI & LLM Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-008080?style=for-the-badge"/>
+</p>
+
+---
+
+### 🐳 DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
+
+---
+
+## 💡 Key Strengths
+
+- 💻 Strong proficiency in front-end and back-end development  
+- 📈 Experience building scalable, production-ready applications  
+- 🔌 Skilled in API integrations & microservices architecture  
+- 🧠 AI-powered system design & LLM workflows  
+- 🤝 Collaborative team player with strong problem-solving ability  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MishalQamar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalQamar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced RAG Architectures  
+- Multi-Agent Systems  
+- High-Performance Backend Design  
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐️ From [MishalQamar](https://github.com/MishalQamar)
