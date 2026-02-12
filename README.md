@@ -21,8 +21,9 @@
 ### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
-  <img src="https://cdn.worldvectorlogo.com/logos/celery.svg" height="48" alt="Celery"/>
+  <img src="https://cdn.simpleicons.org/celery/37814A" height="48" alt="Celery"/>
 </p>
+
 
 ---
 
@@ -61,14 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MishalQamar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalQamar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
@@ -81,10 +74,10 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mishal-q-8b8053249/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mishalqamar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
