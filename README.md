@@ -21,8 +21,9 @@
 ### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
-  <img src="https://cdn.simpleicons.org/celery/37814A" height="48" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 </p>
+
 
 
 ---
