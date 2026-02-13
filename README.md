@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mishal Qamar</h1>
 <h3 align="center">Full-Stack Developer • AI Systems Builder • Scalable Architecture Enthusiast</h3>
 
-<p align="center">
-  Passionate about building high-performance applications and intelligent AI-powered systems.
-</p>
+
 
 ---
 
